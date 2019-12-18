@@ -1,0 +1,6 @@
+[mysql]
+addr = "118.25.7.42"
+port = 3306
+username = "gaffy"
+password = "19951128"
+database = "job"
